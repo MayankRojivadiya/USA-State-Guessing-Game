@@ -15,8 +15,8 @@ An interactive game built with Python that helps you learn all 50 states of the 
 
 ## 🖼️ Preview
 
-![Game Preview](preview(1).png)
-![Game Preview](preview(2).png)
+![Game Preview](./assets/preview(1).png)
+![Game Preview](./assets/preview(2).png)
 
 ---
 
