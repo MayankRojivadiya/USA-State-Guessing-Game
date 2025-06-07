@@ -34,3 +34,6 @@ An interactive game built with Python that helps you learn all 50 states of the 
 2. Make sure you have `pandas` installed:
    ```bash
    pip install pandas
+
+```bash
+python USA-states-guessing-game.py
